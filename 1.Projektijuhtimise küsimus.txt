@@ -1,1 +1,8 @@
 Millised on projektijuhtimise peamised eesmärgid ja kuidas need saavutada?
+
+Projektijuhtimise peamised eesmärgid on:
+
+Aja ja ressursi tõhus kasutamine: Täita projekt õigeks ajaks ja eelarves.
+Kvaliteedi tagamine: Täita projekti eesmärgid vastavalt kvaliteedi nõudmistele.
+Riskide haldamine: Tuvastada, analüüsida ja vähendada riske.
+Meeskonna koostöö ja kommunikatsioon: Tagada hea koostöö ja pidev teabevahetus tiimi vahel.
